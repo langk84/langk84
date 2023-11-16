@@ -5,11 +5,11 @@
 - Python
 - C
 - C++
+- Java
 
 ## 개발 경험은 있으나, 스킬은 아닌것들
 Experienced in development, But don't review code
 - HTML5&CSS3&Node.js
-- Java
 - MongoDB
 - SQL
 - C#
