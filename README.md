@@ -7,8 +7,8 @@
 - C++
 
 ## 개발 경험은 있으나, 스킬은 아닌것들
-- HTML5&CSS3
-- Node.js
+Experienced in development, But don't review code
+- HTML5&CSS3&Node.js
 - Java
 - MongoDB
 - SQL
@@ -16,7 +16,7 @@
 - Unity
 - Blender
 - Liunx
-- Spring
+- U#
 
 [![Solved.ac
 vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://solved.ac/vycoml)
