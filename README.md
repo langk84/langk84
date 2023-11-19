@@ -1,5 +1,6 @@
 ## Hi there 👋
 삼육대학교 인공지능융합학부 23학번 서승준입니다.
+
 [![Solved.ac
 vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://solved.ac/vycoml)
 
