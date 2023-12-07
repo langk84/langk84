@@ -4,11 +4,17 @@
 [![Solved.ac
 vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://solved.ac/vycoml)
 
-## skill
+## Skill
 - Python
 - C
 - C++
 - Java
+- 
+
+## Recent Interest
+currently studying
+- 
+
 
 ## 개발 경험은 있으나, 스킬은 아닌것들
 Experienced in development, But don't review code
@@ -20,6 +26,7 @@ Experienced in development, But don't review code
 - Blender
 - Liunx
 - U#
+- 
 
 ## contact
 - langk@syuin.ac.kr (2day~10day)
