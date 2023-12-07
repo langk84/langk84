@@ -8,7 +8,6 @@ vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://sol
 - Python
 - C
 - C++
-- Java
 - 
 
 ## Recent Interest 
@@ -18,13 +17,14 @@ vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://sol
 
 ## 개발 경험은 있으나, 스킬은 아닌것들
 Experienced in development, But don't review code
+- Java
 - HTML5&CSS3&Node.js
 - MongoDB
 - SQL
 - C#
 - Unity
-- Blender
 - Liunx
+- Blender
 - U#
 - 
 
