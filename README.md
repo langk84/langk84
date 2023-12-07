@@ -1,5 +1,5 @@
 ## Hi there 👋
-삼육대학교 인공지능융합학부 23학번 서승준입니다.
+새로움을 좋아하는 학생 개발자 서승준입니다.
 
 [![Solved.ac
 vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://solved.ac/vycoml)
@@ -23,4 +23,5 @@ Experienced in development, But don't review code
 
 ## contact
 - langk@syuin.ac.kr (2day~10day)
-- etc (~1day)
+- etc (~2day)
+- 
