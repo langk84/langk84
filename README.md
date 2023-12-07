@@ -11,8 +11,8 @@ vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://sol
 - Java
 - 
 
-## Recent Interest
-currently studying
+## Recent Interest 
+- Not yet
 - 
 
 
