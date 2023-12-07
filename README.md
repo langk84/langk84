@@ -29,6 +29,6 @@ Experienced in development, But don't review code
 - 
 
 ## contact
-- langk@syuin.ac.kr (2day~10day)
-- etc (~2day)
+- langk@syuin.ac.kr (Within 15days)
+- etc (Within 2days)
 - 
