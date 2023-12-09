@@ -14,6 +14,10 @@ vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://sol
 - Not yet
 - 
 
+## Running Project
+- [버그가 아니라 기능입니다](https://github.com/langk84/Jumeok99)
+- 
+
 
 ## 개발 경험은 있으나, 스킬은 아닌것들
 Experienced in development, But don't review code
