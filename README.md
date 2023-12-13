@@ -18,19 +18,20 @@ vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://sol
 - [버그가 아니라 기능입니다](https://github.com/langk84/Jumeok99)
 - 
 
-
-## 개발 경험은 있으나, 스킬은 아닌것들
+<!-- hidden
+## 사용 경험은 있으나, 스킬은 아닌것들
 Experienced in development, But don't review code
-- Java
-- HTML5&CSS3&Node.js
-- MongoDB
-- SQL
-- C#
-- Unity
-- Liunx
-- Blender
-- U#
-- 
+- Java(16,18)
+- HTML5&CSS3&Node.js(21,23)
+- MongoDB(21)
+- SQL(19)
+- C#(21-23)
+- Unity(21-23)
+- Liunx(20)
+- Blender(22)
+- U#(22)
+-
+-->
 
 ## contact
 - langk@syuin.ac.kr (Within 15days)
