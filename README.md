@@ -15,7 +15,7 @@ vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://sol
 - 
 
 ## Running Project
-- [버그가 아니라 기능입니다](https://github.com/langk84/Jumeok99)
+- Not yet
 - 
 
 <!-- hidden
