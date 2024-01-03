@@ -29,7 +29,6 @@ Experienced in development, But don't review code
 - Unity(21-23)
 - Liunx(20)
 - Blender(22)
-- U#(22)
 -
 -->
 
