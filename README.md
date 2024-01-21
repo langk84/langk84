@@ -20,6 +20,8 @@ vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://sol
 - C#
 - .NET
 - Unity
+- Node.js
+- vue.js
 - 
 
 ## Running Project
