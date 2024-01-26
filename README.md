@@ -1,5 +1,5 @@
 ## Hi there 👋
-새로움을 좋아하는 학생 개발자 서승준입니다.
+서승준입니다.
 
 [![Solved.ac
 vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://solved.ac/vycoml)
