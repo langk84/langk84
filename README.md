@@ -29,6 +29,5 @@ vycoml](http://mazassumnida.wtf/api/mini/generate_badge?boj=vycoml)](https://sol
 - 
 
 ## contact
-- langk@syuin.ac.kr (~ 15days)
 - etc (~ 5days)
 - 
